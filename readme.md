@@ -23,7 +23,7 @@ The head is `[Node 0]`. The last node points to null, because there is no next n
 [Node 9] -> [Node 8] -> ... -> [Node 1] -> [Node 0] -> null
 ```
 
-The new head, after reversing the list, is `[Node 9]`, and now the old head, `[Node 0]`, now points to null because it is now the last node.
+The new head, after reversing the list, is `[Node 9]`, and now the old head, `[Node 0]`, points to null because it is now the last node.
 
 You can use the linked list you created for the [Linked List Lab](https://github.com/ga-adi-nyc/linked-list-lab) as your starting point, so that can be the linked list you reverse.
 
