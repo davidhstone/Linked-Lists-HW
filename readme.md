@@ -1,5 +1,5 @@
 ---
-title: Lists
+title: Reverse a Linked List
 type: Homework
 duration: "1:00"
 creator:
@@ -7,7 +7,7 @@ creator:
     city: NYC
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Lists Homework
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Reverse a Linked List Homework
 
 > ***Note:*** _This can be a pair programming activity or done independently._
 
